@@ -1,0 +1,5 @@
+fuzzingbook>=0.9.5
+Markdown>=3.3.6
+regex>=2021.11.10
+pyparsing>=2.4.7
+antlr4-python3-runtime>=4.9.2
